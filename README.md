@@ -15,3 +15,4 @@
 <b>Target Feature:</b>Outcome(0/1)<br>
 <b> PIMA refers to the Pima people, a group of Native American Indians from the southwestern United States (mainly Arizona) and northern Mexico. 
 PIMA = Pima Indian Medical Analysis </b><br>
+## end
